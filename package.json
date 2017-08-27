@@ -1,0 +1,9 @@
+{
+    "name": "light-event",
+    "version": "1.0.0",
+    "main": "./test.js",
+    "author": {
+        "name": "fxqn/kazetotori",
+        "email": "695379748@qq.com"
+    }
+}
